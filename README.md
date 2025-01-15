@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0045-jump-game-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishabhmishra51/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rishabhmishra51/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/rishabhmishra51/Leetcode/tree/master/2509-minimize-xor) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0078-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rishabhmishra51/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/rishabhmishra51/Leetcode/tree/master/2509-minimize-xor) |
 ## Backtracking
 |  |
 | ------- |
