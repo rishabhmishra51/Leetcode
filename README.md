@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0045-jump-game-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishabhmishra51/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rishabhmishra51/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/rishabhmishra51/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/rishabhmishra51/Leetcode/tree/master/2509-minimize-xor) |
 ## Math
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rishabhmishra51/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rishabhmishra51/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rishabhmishra51/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/rishabhmishra51/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rishabhmishra51/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rishabhmishra51/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0078-subsets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rishabhmishra51/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/rishabhmishra51/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rishabhmishra51/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String Matching
 |  |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rishabhmishra51/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rishabhmishra51/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/rishabhmishra51/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/rishabhmishra51/Leetcode/tree/master/3447-clear-digits) |
 ## Brainteaser
 |  |
