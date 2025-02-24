@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/rishabhmishra51/Leetcode/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/rishabhmishra51/Leetcode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0078-subsets) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/rishabhmishra51/Leetcode/tree/master/0031-next-permutation) |
 | [0852-friends-of-appropriate-ages](https://github.com/rishabhmishra51/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 ## Binary Search
 |  |
