@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/rishabhmishra51/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishabhmishra51/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0045-jump-game-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0001-two-sum) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishabhmishra51/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/rishabhmishra51/Leetcode/tree/master/1364-tuple-with-same-product) |
