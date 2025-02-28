@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0952-word-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rishabhmishra51/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1160-letter-tile-possibilities](https://github.com/rishabhmishra51/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishabhmishra51/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rishabhmishra51/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/rishabhmishra51/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishabhmishra51/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishabhmishra51/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/rishabhmishra51/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/rishabhmishra51/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishabhmishra51/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishabhmishra51/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0078-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/rishabhmishra51/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rishabhmishra51/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rishabhmishra51/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/rishabhmishra51/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/rishabhmishra51/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/rishabhmishra51/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/rishabhmishra51/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishabhmishra51/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
