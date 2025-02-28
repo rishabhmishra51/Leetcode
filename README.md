@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/rishabhmishra51/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishabhmishra51/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rishabhmishra51/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rishabhmishra51/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/rishabhmishra51/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rishabhmishra51/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/rishabhmishra51/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/rishabhmishra51/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishabhmishra51/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rishabhmishra51/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rishabhmishra51/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rishabhmishra51/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rishabhmishra51/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-friends-of-appropriate-ages](https://github.com/rishabhmishra51/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rishabhmishra51/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishabhmishra51/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Breadth-First Search
 |  |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rishabhmishra51/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/rishabhmishra51/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rishabhmishra51/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Shortest Path
 |  |
