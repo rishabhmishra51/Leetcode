@@ -12,11 +12,11 @@ public:
        int ans=-1;
        int n=nums.size();
 
-        unordered_map<int,int>mp;
+        int mp[82]={0};
         
        for(int i=0;i<n;i++){
         int numSum =getdigitSum(nums[i]);
-        if(mp.count(numSum)){
+        if(mp[numSum] >0){
             ans = max(ans,nums[i]+mp[numSum]);
         }
 
