@@ -5,27 +5,31 @@ public:
         int m=nums2.size();
 
         vector<vector<int>>result;
-          map<int,int>mp;
-
-        for(int i =0;i<n;i++){
-           int id = nums1[i][0];
-           int val =nums1[i][1];
-
-           mp[id]+=val;
+        int i=0,j=0;
+        while(i<n && j<m){
+            if(nums1[i][0]<nums2[j][0]){
+                result.push_back(nums1[i]);
+                i++;
+            }
+            else if(nums1[i][0] > nums2[j][0]){
+                  result.push_back(nums2[j]);
+                  j++;
+            }
+            else{
+                   result.push_back({nums1[i][0],nums2[j][1]+nums1[i][1]});
+                    j++;
+                    i++;
+            }
+        } 
+        while(i<n){
+              result.push_back(nums1[i]);
+                i++;
         }
-
-        for(int i =0;i<m;i++){
-           int id = nums2[i][0];
-           int val =nums2[i][1];
-
-           mp[id]+=val;
+          while(j<m){
+              result.push_back(nums2[j]);
+                  j++;
         }
-        for(auto &it : mp){
-            int key = it.first;
-            int val = it.second;
-            result.push_back({key,val});
-        }
-      
+              
         return result;
     }
 };
