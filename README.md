@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rishabhmishra51/Leetcode/tree/master/0455-assign-cookies) |
 | [0852-friends-of-appropriate-ages](https://github.com/rishabhmishra51/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0854-making-a-large-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0854-making-a-large-island) |
+| [0898-transpose-matrix](https://github.com/rishabhmishra51/Leetcode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishabhmishra51/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishabhmishra51/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0952-word-subsets) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rishabhmishra51/Leetcode/tree/master/0048-rotate-image) |
 | [0407-trapping-rain-water-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0854-making-a-large-island) |
+| [0898-transpose-matrix](https://github.com/rishabhmishra51/Leetcode/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/rishabhmishra51/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rishabhmishra51/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/rishabhmishra51/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/rishabhmishra51/Leetcode/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rishabhmishra51/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2551-apply-operations-to-an-array](https://github.com/rishabhmishra51/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
