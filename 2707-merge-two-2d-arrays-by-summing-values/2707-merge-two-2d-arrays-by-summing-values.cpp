@@ -5,7 +5,7 @@ public:
         int m=nums2.size();
 
         vector<vector<int>>result;
-        unordered_map<int,int>mp;
+          map<int,int>mp;
 
         for(int i =0;i<n;i++){
            int id = nums1[i][0];
@@ -25,7 +25,7 @@ public:
             int val = it.second;
             result.push_back({key,val});
         }
-        sort(result.begin(),result.end());
+      
         return result;
     }
 };
