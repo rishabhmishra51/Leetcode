@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/rishabhmishra51/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishabhmishra51/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0045-jump-game-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/rishabhmishra51/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishabhmishra51/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/rishabhmishra51/Leetcode/tree/master/0455-assign-cookies) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/rishabhmishra51/Leetcode/tree/master/0455-assign-cookies) |
 | [0852-friends-of-appropriate-ages](https://github.com/rishabhmishra51/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rishabhmishra51/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
