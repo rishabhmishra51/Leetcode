@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rishabhmishra51/Leetcode/tree/master/0062-unique-paths) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rishabhmishra51/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rishabhmishra51/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishabhmishra51/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rishabhmishra51/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Combinatorics
