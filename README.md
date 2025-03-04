@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/rishabhmishra51/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rishabhmishra51/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rishabhmishra51/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1511-count-number-of-teams](https://github.com/rishabhmishra51/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/rishabhmishra51/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rishabhmishra51/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/rishabhmishra51/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishabhmishra51/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1511-count-number-of-teams](https://github.com/rishabhmishra51/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
 |  |
@@ -373,4 +375,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishabhmishra51/Leetcode/tree/master/0042-trapping-rain-water) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/rishabhmishra51/Leetcode/tree/master/1511-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/rishabhmishra51/Leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
