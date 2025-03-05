@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rishabhmishra51/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishabhmishra51/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishabhmishra51/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0045-jump-game-ii) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rishabhmishra51/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishabhmishra51/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishabhmishra51/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/rishabhmishra51/Leetcode/tree/master/0455-assign-cookies) |
