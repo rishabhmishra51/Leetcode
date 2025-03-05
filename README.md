@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rishabhmishra51/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rishabhmishra51/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishabhmishra51/Leetcode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/rishabhmishra51/Leetcode/tree/master/0455-assign-cookies) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rishabhmishra51/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/rishabhmishra51/Leetcode/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/rishabhmishra51/Leetcode/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rishabhmishra51/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rishabhmishra51/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/rishabhmishra51/Leetcode/tree/master/0268-missing-number) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishabhmishra51/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishabhmishra51/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0952-word-subsets) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/rishabhmishra51/Leetcode/tree/master/0268-missing-number) |
 | [0891-score-after-flipping-matrix](https://github.com/rishabhmishra51/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rishabhmishra51/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/rishabhmishra51/Leetcode/tree/master/2509-minimize-xor) |
@@ -254,12 +258,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rishabhmishra51/Leetcode/tree/master/0268-missing-number) |
 | [0852-friends-of-appropriate-ages](https://github.com/rishabhmishra51/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/rishabhmishra51/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/rishabhmishra51/Leetcode/tree/master/0455-assign-cookies) |
 | [0852-friends-of-appropriate-ages](https://github.com/rishabhmishra51/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rishabhmishra51/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
