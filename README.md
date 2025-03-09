@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rishabhmishra51/Leetcode/tree/master/0455-assign-cookies) |
 | [0891-score-after-flipping-matrix](https://github.com/rishabhmishra51/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishabhmishra51/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/rishabhmishra51/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rishabhmishra51/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rishabhmishra51/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/rishabhmishra51/Leetcode/tree/master/2509-minimize-xor) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/rishabhmishra51/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rishabhmishra51/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2032-largest-odd-number-in-string](https://github.com/rishabhmishra51/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishabhmishra51/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rishabhmishra51/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rishabhmishra51/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rishabhmishra51/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishabhmishra51/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rishabhmishra51/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/rishabhmishra51/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rishabhmishra51/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/rishabhmishra51/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rishabhmishra51/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
