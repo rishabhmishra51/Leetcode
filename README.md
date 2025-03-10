@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rishabhmishra51/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/rishabhmishra51/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/rishabhmishra51/Leetcode/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/rishabhmishra51/Leetcode/tree/master/0268-missing-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rishabhmishra51/Leetcode/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/rishabhmishra51/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0952-word-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/rishabhmishra51/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rishabhmishra51/Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/rishabhmishra51/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/rishabhmishra51/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishabhmishra51/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
