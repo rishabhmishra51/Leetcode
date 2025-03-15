@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rishabhmishra51/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/rishabhmishra51/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/rishabhmishra51/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/rishabhmishra51/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/rishabhmishra51/Leetcode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/rishabhmishra51/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishabhmishra51/Leetcode/tree/master/0268-missing-number) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishabhmishra51/Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rishabhmishra51/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/rishabhmishra51/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/rishabhmishra51/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rishabhmishra51/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rishabhmishra51/Leetcode/tree/master/0231-power-of-two) |
