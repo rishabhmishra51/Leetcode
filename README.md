@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishabhmishra51/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/rishabhmishra51/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rishabhmishra51/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rishabhmishra51/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/rishabhmishra51/Leetcode/tree/master/0735-asteroid-collision) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rishabhmishra51/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rishabhmishra51/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishabhmishra51/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rishabhmishra51/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -511,5 +513,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rishabhmishra51/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rishabhmishra51/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
