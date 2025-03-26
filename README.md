@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/rishabhmishra51/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rishabhmishra51/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rishabhmishra51/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rishabhmishra51/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/rishabhmishra51/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rishabhmishra51/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishabhmishra51/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rishabhmishra51/Leetcode/tree/master/0455-assign-cookies) |
 | [0852-friends-of-appropriate-ages](https://github.com/rishabhmishra51/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0908-middle-of-the-linked-list](https://github.com/rishabhmishra51/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rishabhmishra51/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rishabhmishra51/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/rishabhmishra51/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rishabhmishra51/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
