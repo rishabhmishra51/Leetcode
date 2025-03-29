@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rishabhmishra51/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rishabhmishra51/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/rishabhmishra51/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3001-apply-operations-to-maximize-score](https://github.com/rishabhmishra51/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishabhmishra51/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/rishabhmishra51/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rishabhmishra51/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rishabhmishra51/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rishabhmishra51/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/rishabhmishra51/Leetcode/tree/master/2509-minimize-xor) |
+| [3001-apply-operations-to-maximize-score](https://github.com/rishabhmishra51/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/rishabhmishra51/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rishabhmishra51/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rishabhmishra51/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/rishabhmishra51/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/rishabhmishra51/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Combinatorics
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rishabhmishra51/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rishabhmishra51/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rishabhmishra51/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/rishabhmishra51/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/rishabhmishra51/Leetcode/tree/master/3447-clear-digits) |
 ## Brainteaser
 |  |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rishabhmishra51/Leetcode/tree/master/0455-assign-cookies) |
 | [0852-friends-of-appropriate-ages](https://github.com/rishabhmishra51/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rishabhmishra51/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3001-apply-operations-to-maximize-score](https://github.com/rishabhmishra51/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishabhmishra51/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/rishabhmishra51/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Breadth-First Search
@@ -513,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/rishabhmishra51/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/rishabhmishra51/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/rishabhmishra51/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [3001-apply-operations-to-maximize-score](https://github.com/rishabhmishra51/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -525,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/rishabhmishra51/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/rishabhmishra51/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Bucket Sort
 |  |
 | ------- |
