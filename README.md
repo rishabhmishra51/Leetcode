@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishabhmishra51/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishabhmishra51/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0952-word-subsets) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/rishabhmishra51/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1138-grumpy-bookstore-owner](https://github.com/rishabhmishra51/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/rishabhmishra51/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rishabhmishra51/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/rishabhmishra51/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/rishabhmishra51/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0891-score-after-flipping-matrix](https://github.com/rishabhmishra51/Leetcode/tree/master/0891-score-after-flipping-matrix) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/rishabhmishra51/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishabhmishra51/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/rishabhmishra51/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rishabhmishra51/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
