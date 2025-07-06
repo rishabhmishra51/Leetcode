@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rishabhmishra51/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rishabhmishra51/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rishabhmishra51/Leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/rishabhmishra51/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishabhmishra51/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/rishabhmishra51/Leetcode/tree/master/0118-pascals-triangle) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rishabhmishra51/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/rishabhmishra51/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/rishabhmishra51/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/rishabhmishra51/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/rishabhmishra51/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/rishabhmishra51/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishabhmishra51/Leetcode/tree/master/0268-missing-number) |
