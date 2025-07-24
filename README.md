@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0585-investments-in-2016](https://github.com/rishabhmishra51/Leetcode/tree/master/0585-investments-in-2016) |
 | [1155-product-sales-analysis-iii](https://github.com/rishabhmishra51/Leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1338-queries-quality-and-percentage](https://github.com/rishabhmishra51/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/rishabhmishra51/Leetcode/tree/master/1390-average-selling-price) |
