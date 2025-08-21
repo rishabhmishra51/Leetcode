@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/rishabhmishra51/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/rishabhmishra51/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0695-max-area-of-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/rishabhmishra51/Leetcode/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/rishabhmishra51/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0852-friends-of-appropriate-ages](https://github.com/rishabhmishra51/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rishabhmishra51/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0695-max-area-of-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0854-making-a-large-island) |
 | [0891-score-after-flipping-matrix](https://github.com/rishabhmishra51/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/rishabhmishra51/Leetcode/tree/master/0898-transpose-matrix) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rishabhmishra51/Leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/rishabhmishra51/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/rishabhmishra51/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishabhmishra51/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/rishabhmishra51/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/rishabhmishra51/Leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/rishabhmishra51/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/rishabhmishra51/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rishabhmishra51/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/rishabhmishra51/Leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/rishabhmishra51/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/rishabhmishra51/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/rishabhmishra51/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
