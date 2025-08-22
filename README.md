@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rishabhmishra51/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/rishabhmishra51/Leetcode/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/rishabhmishra51/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/rishabhmishra51/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0852-friends-of-appropriate-ages](https://github.com/rishabhmishra51/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0854-making-a-large-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0854-making-a-large-island) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/rishabhmishra51/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/rishabhmishra51/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishabhmishra51/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1511-count-number-of-teams](https://github.com/rishabhmishra51/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
