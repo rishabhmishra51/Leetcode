@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/rishabhmishra51/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/rishabhmishra51/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishabhmishra51/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1511-count-number-of-teams](https://github.com/rishabhmishra51/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rishabhmishra51/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishabhmishra51/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/rishabhmishra51/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0797-rabbits-in-forest](https://github.com/rishabhmishra51/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rishabhmishra51/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/rishabhmishra51/Leetcode/tree/master/1500-count-largest-group) |
@@ -709,4 +711,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/rishabhmishra51/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/rishabhmishra51/Leetcode/tree/master/1390-average-selling-price) |
 | [1908-recyclable-and-low-fat-products](https://github.com/rishabhmishra51/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
