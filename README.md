@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/rishabhmishra51/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/rishabhmishra51/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/rishabhmishra51/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0695-max-area-of-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/rishabhmishra51/Leetcode/tree/master/0735-asteroid-collision) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rishabhmishra51/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/rishabhmishra51/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/rishabhmishra51/Leetcode/tree/master/0854-making-a-large-island) |
 | [0891-score-after-flipping-matrix](https://github.com/rishabhmishra51/Leetcode/tree/master/0891-score-after-flipping-matrix) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishabhmishra51/Leetcode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/rishabhmishra51/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/rishabhmishra51/Leetcode/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/rishabhmishra51/Leetcode/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rishabhmishra51/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
