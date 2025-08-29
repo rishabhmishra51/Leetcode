@@ -1,24 +1,19 @@
 class Solution {
 public:
-    int numRabbits(vector<int>& answer) {
-        unordered_map<int, int> m;
-        int result = 0;
+    int numRabbits(vector<int>& answers) {
+        sort(answers.begin(), answers.end());
+        int res = 0, count = 0;
 
-        for (int i = 0; i < answer.size(); i++) {
-            if (m[answer[i]] == 0) {
-                result += answer[i] + 1;
-                if (answer[i] == 0) continue;
-                m[answer[i]] = 1;
+        for (int i = 0; i < answers.size(); ++i) {
+            if (answers[i] == 0) {
+                res++;  // \U0001f407 
+            } else if (i == 0 || answers[i] != answers[i - 1] || count == 0) {
+                res += answers[i] + 1;  
+                count = answers[i];   
             } else {
-                m[answer[i]]++;
-                int key = answer[i];
-                int val = m[key];
-                if (val == key + 1) {
-                    m.erase(key);
-                }
+                count--; 
             }
         }
-
-        return result;
+        return res;
     }
 };
