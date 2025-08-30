@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/rishabhmishra51/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/rishabhmishra51/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/rishabhmishra51/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rishabhmishra51/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishabhmishra51/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/rishabhmishra51/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rishabhmishra51/Leetcode/tree/master/0268-missing-number) |
