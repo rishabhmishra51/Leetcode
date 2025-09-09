@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rishabhmishra51/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/rishabhmishra51/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/rishabhmishra51/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishabhmishra51/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/rishabhmishra51/Leetcode/tree/master/0118-pascals-triangle) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishabhmishra51/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishabhmishra51/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishabhmishra51/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/rishabhmishra51/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/rishabhmishra51/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rishabhmishra51/Leetcode/tree/master/0148-sort-list) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/rishabhmishra51/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/rishabhmishra51/Leetcode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishabhmishra51/Leetcode/tree/master/0268-missing-number) |
