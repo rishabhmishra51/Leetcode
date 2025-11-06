@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rishabhmishra51/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/rishabhmishra51/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/rishabhmishra51/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rishabhmishra51/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishabhmishra51/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rishabhmishra51/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rishabhmishra51/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/rishabhmishra51/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/rishabhmishra51/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rishabhmishra51/Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/rishabhmishra51/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/rishabhmishra51/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishabhmishra51/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
