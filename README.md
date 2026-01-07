@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rishabhmishra51/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rishabhmishra51/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/rishabhmishra51/Leetcode/tree/master/0038-count-and-say) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rishabhmishra51/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rishabhmishra51/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/rishabhmishra51/Leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/rishabhmishra51/Leetcode/tree/master/0952-word-subsets) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rishabhmishra51/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishabhmishra51/Leetcode/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rishabhmishra51/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rishabhmishra51/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rishabhmishra51/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/rishabhmishra51/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/rishabhmishra51/Leetcode/tree/master/0768-partition-labels) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/rishabhmishra51/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rishabhmishra51/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/rishabhmishra51/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishabhmishra51/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rishabhmishra51/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
